@@ -1,10 +1,10 @@
 # SE-TOOL
 
-Student Name :  Mogdul Prafull Popat 
+Student Name :  Prafull Mogdul
 
 MIS: 111903062
 
-Student Name:  Pratik Dynashwar Bandre
+Student Name:  Pratik Bandre
 
 MIS: 111903063
 
